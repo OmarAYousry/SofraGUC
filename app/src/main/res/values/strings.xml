@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SofraGUC</string>
+    <string name="button_msg">Send</string>
+    <string name="user_hint">Your response</string>
 </resources>
