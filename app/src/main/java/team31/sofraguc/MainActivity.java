@@ -16,7 +16,6 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 public class MainActivity extends ListActivity {
-
     Button sendButton;
     EditText textField;
     String userID = null;
